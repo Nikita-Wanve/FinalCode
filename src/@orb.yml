@@ -5,6 +5,6 @@ description: >
 
 # This information will be displayed in the orb registry and is not mandatory.
 display:
-  home_url: "https://www.github.com/Nikita-Wanve/FinalCode/calculator-orb"
-  source_url: "https://www.github.com/Nikita-Wanve/FinalCode/calculator-orb"
+  home_url: "https://www.github.com/Nikita-Wanve/FinalCode"
+  source_url: "https://www.github.com/Nikita-Wanve/FinalCode"
 
